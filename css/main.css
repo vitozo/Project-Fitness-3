@@ -164,7 +164,7 @@ ul>li {
 }
 
 .nav__link--main--icon:before {
- background-image: url('../img/headder-icon/main_icon.png') no-repeat;
+ background-image: url('../img/headder-icon/main_icon.png');
 }
 
 .nav__link--main--icon:before:hover {
