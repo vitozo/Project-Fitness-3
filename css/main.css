@@ -164,26 +164,26 @@ ul>li {
 }
 
 .nav__link--main--icon:before {
- background: url('/img/headder-icon/main_icon.png') no-repeat;
+ background: url('../img/headder-icon/main_icon.png') no-repeat;
 }
 .nav__link--main--icon:before:hover {
- background: url('/img/headder-icon/main_icon-hover.png');
+ background: url('../img/headder-icon/main_icon-hover.png');
 }
 
 .nav__link--feed--icon:before {
-  background-image: url('/img/headder-icon/feed_icon.png');
+  background-image: url('../img/headder-icon/feed_icon.png');
 }
 
 .nav__link--feed--icon:before:hover {
-  background-image: url('/img/headder-icon/feed_icon-hover.png');
+  background-image: url('../img/headder-icon/feed_icon-hover.png');
 }
 
 .nav__link--service--icon:before {
-  background-image: url('/img/headder-icon/service_icon.png');
+  background-image: url('../img/headder-icon/service_icon.png');
 }
 
 .nav__link--service--icon:before:hover {
-  background-image: url('/img/headder-icon/service_icon-hover.png');
+  background-image: url('../img/headder-icon/service_icon-hover.png');
 }
 
 .contacts {
@@ -391,7 +391,7 @@ ul>li {
 }
 
 .networks__link--icon-vk {
-  background-image: url('/img/social-icon/vk.png');
+  background-image: url('../img/social-icon/vk.png');
   background-color: #f89513;
 }
 
