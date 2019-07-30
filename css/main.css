@@ -164,10 +164,10 @@ ul>li {
 }
 
 .nav__link--main--icon:before {
- background: url('../img/headder-icon/main_icon.png') no-repeat;
+ background-image: url('../img/headder-icon/main_icon.png') no-repeat;
 }
 .nav__link--main--icon:before:hover {
- background: url('../img/headder-icon/main_icon-hover.png');
+ background-image: url('../img/headder-icon/main_icon-hover.png');
 }
 
 .nav__link--feed--icon:before {
